@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+      <meta charset="utf-8">
+      <title>UXDI38</title>
+      <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>
+      <h1>Hello World!</h1>
+      <h2><i>Hello scrambled eggs</i></h2>
+      <h3><i>Hello hardboiled eggs</i></h3>
+      <h4><i>Hello sunny side up</i></h4>
+      <h5><i>Hello eggs benedict</i></h5>
+      <h6><i>Hello steamed eggs</i></h6>
+      <img src="https://cdn.loveandlemons.com/wp-content/uploads/2021/05/scrambled-eggs.jpg" alt="Scrambled Eggs" width="500px" height="auto">
+    </body>
+</html>
